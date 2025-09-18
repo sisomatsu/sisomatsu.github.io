@@ -4,11 +4,15 @@
 entries:
 
   - title: >
-      <a href="https://sisomatsu.github.io/more-about-me">more about me</a> |
-      <a href="https://sisomatsu.github.io/research">research</a> |
-      <a href="https://sisomatsu.github.io/writing">writing</a> |
-      <a href="https://sisomatsu.github.io/projects">projects</a> |
-      <a href="https://sisomatsu.github.io/cv">cv</a>
+      <ul class="no-bullet">
+        <li>
+          <a href="https://sisomatsu.github.io/more-about-me">more about me</a> |
+          <a href="https://sisomatsu.github.io/research">research</a> |
+          <a href="https://sisomatsu.github.io/writing">writing</a> |
+          <a href="https://sisomatsu.github.io/projects">projects</a> |
+          <a href="https://sisomatsu.github.io/cv">cv</a>
+        </li>
+      </ul>
 
   - title: all posts
     post_list:
