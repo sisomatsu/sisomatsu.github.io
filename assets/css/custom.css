@@ -1,0 +1,10 @@
+/* assets/css/custom.css */
+#menu ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+#menu li {
+  list-style-type: none;
+  margin-left: 0;
+}
