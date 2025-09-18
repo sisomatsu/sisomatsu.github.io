@@ -2,21 +2,17 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - entries:
-    - title: more about me
-      url: https://sisomatsu.github.io/more-about-me
-    - title: writing
-      url: https://sisomatsu.github.io/writing
-    - title: projects
-      url: https://sisomatsu.github.io/projects
-    - title: cv
-      url: https://sisomatsu.github.io/cv
-  - title: info
-    entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+
+  - title: more about me
+    url: https://sisomatsu.github.io/more-about-me
+  - title: research
+    url: https://sisomatsu.github.io/research
+  - title: writing
+    url: https://sisomatsu.github.io/writing
+  - title: projects
+    url: https://sisomatsu.github.io/projects
+  - title: cv
+    url: https://sisomatsu.github.io/cv
 
   - title: all posts
     post_list:
@@ -31,9 +27,6 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
   
   - title: another list
     entries:
