@@ -6,12 +6,12 @@ entries:
     entries:
       - title: About Me
         url: https://google.com
-      - title: Writing
-        url: https://google.com
-      - title: Projects
-        url: https://google.com
       - title: Research
         url: https://scholar.google.com
+      - title: Projects
+        url: https://google.com
+      - title: Blog
+        url: https://google.com
       - title: CV
         url: https://google.com
 
