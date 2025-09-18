@@ -2,6 +2,15 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - entries:
+    - title: more about me
+      url: https://sisomatsu.github.io/more-about-me
+    - title: writing
+      url: https://sisomatsu.github.io/writing
+    - title: projects
+      url: https://sisomatsu.github.io/projects
+    - title: cv
+      url: https://sisomatsu.github.io/cv
   - title: info
     entries:
       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
