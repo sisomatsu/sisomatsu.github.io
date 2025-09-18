@@ -10,17 +10,6 @@ entries:
       <a href="https://sisomatsu.github.io/projects">projects</a> |
       <a href="https://sisomatsu.github.io/cv">cv</a>
 
-  - title: more about me
-    url: https://sisomatsu.github.io/more-about-me
-  - title: research
-    url: https://sisomatsu.github.io/research
-  - title: writing
-    url: https://sisomatsu.github.io/writing
-  - title: projects
-    url: https://sisomatsu.github.io/projects
-  - title: cv
-    url: https://sisomatsu.github.io/cv
-
   - title: all posts
     post_list:
       limit: 5
