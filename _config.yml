@@ -5,6 +5,7 @@ url: https://sisomatsu.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   neuro & hardware enthusiast. undergrad at UCB.
+  hello test
 
 permalink: /:slug.html
 
