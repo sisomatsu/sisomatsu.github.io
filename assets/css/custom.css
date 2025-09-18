@@ -1,10 +1,10 @@
-/* assets/css/custom.css */
-#menu ul {
+/* Turn off bullets only when I say so */
+.no-bullet {
   list-style-type: none;
   padding-left: 0;
   margin-left: 0;
 }
-#menu li {
+.no-bullet > li {
   list-style-type: none;
   margin-left: 0;
 }
