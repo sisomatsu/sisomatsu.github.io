@@ -12,8 +12,6 @@ entries:
         url: https://google.com
       - title: Blog
         url: https://google.com
-      - title: CV
-        url: https://google.com
 
   - title: all posts
     post_list:
@@ -36,3 +34,6 @@ entries:
           - title: with subsubitems
           - title: example page
             url: about
+  - title: links
+    entries:
+      - title: Google Scholar, Github, CV, Email
