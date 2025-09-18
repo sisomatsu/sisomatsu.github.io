@@ -2,6 +2,18 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: featured posts
+    entries:
+      - title: About Me
+        url: https://google.com
+      - title: Writing
+        url: https://google.com
+      - title: Projects
+        url: https://google.com
+      - title: Research
+        url: https://scholar.google.com
+      - title: CV
+        url: https://google.com
 
   - title: all posts
     post_list:
