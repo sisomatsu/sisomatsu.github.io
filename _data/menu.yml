@@ -5,13 +5,13 @@ entries:
   - title: Featured
     entries:
       - title: About Me
-        url: https://google.com
+        url: https://sisomatsu.github.io/more-about-me.html
       - title: Research
-        url: https://scholar.google.com
+        url: https://sisomatsu.github.io/research.html
       - title: Projects
-        url: https://google.com
+        url: https://sisomatsu.github.io/projects.html
       - title: Blog
-        url: https://google.com
+        url: https://sisomatsu.github.io/blog.html
 
   - title: all posts
     post_list:
