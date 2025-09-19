@@ -13,7 +13,7 @@ entries:
       - title: Blog
         url: https://sisomatsu.github.io/blog.html
 
-  - title: Newest posts
+  - title: Recent Posts
     post_list:
       limit: 5
       show_more: true
