@@ -2,10 +2,24 @@
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
+    <header class="site-header">
+      <div class="w">
+        <nav class="site-nav">
+          {% for item in site.data.navigation %}
+            <a href="{{ item.link | relative_url }}"
+               {% if page.url == item.link %}aria-current="page"{% endif %}>
+               {{ item.name }}
+            </a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}
       </div>
+      
     </main>
 
     {%-if site.goat_counter and jekyll.environment == "production"-%}
