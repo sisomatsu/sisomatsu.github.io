@@ -1,12 +1,12 @@
 - name: About
-  url: https://sisomatsu.github.io/about-me.html
+  link: /about-me/
 - name: Research
-  url: https://sisomatsu.github.io/research.html
+  link: https://sisomatsu.github.io/research.html
 - name: Projects
-  url: https://sisomatsu.github.io/projects.html
+  link: https://sisomatsu.github.io/projects.html
 - name: Blog
   url: https://sisomatsu.github.io/seanblog.html
-- name: CV
+- link: CV
   link: /cv/
 
 
