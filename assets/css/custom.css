@@ -8,3 +8,46 @@
   list-style-type: none;
   margin-left: 0;
 }
+
+/* Make the header a consistent height (optional) */
+.site-header {
+  min-height: 64px;          /* tweak to taste */
+  /* background: #fff; */     /* optional */
+  /* border-bottom: 1px solid #eee; */ /* optional */
+}
+
+/* Layout the header’s inner wrapper so its content sits on the right
+   and is vertically centered */
+.site-header .w {
+  display: flex;
+  justify-content: flex-end;  /* push nav to the right */
+  align-items: center;        /* vertically center within header */
+}
+
+/* Lay out the menu horizontally with spacing between items */
+.site-nav {
+  display: flex;
+  gap: 1.25rem;               /* space between menu items (use margin if older browsers) */
+}
+
+/* Nice defaults for links */
+.site-nav a {
+  text-decoration: none;
+  line-height: 1.2;
+  padding: 0.25rem 0;         /* a little click padding */
+}
+
+/* Optional: highlight the current page */
+.site-nav a[aria-current="page"] {
+  font-weight: 600;
+  /* border-bottom: 2px solid currentColor; */ /* if you want an underline marker */
+}
+
+/* Optional: small screens — let items wrap and keep them right-aligned */
+@media (max-width: 640px) {
+  .site-nav {
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+}
+
