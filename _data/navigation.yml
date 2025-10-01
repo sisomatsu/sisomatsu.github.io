@@ -1,10 +1,10 @@
 - name: About
   link: /about/
-- name: Articles
+- name: Research
   link: /articles/
 - name: Projects
   link: /projects/
-- name: Uses
+- name: Writing
   link: /uses/
-- name: Reading
+- name: CV
   link: /reading/
