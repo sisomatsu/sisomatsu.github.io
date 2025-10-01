@@ -1,6 +1,7 @@
 ---
-layout: post
-category: example2
+layout: about
+title: about
+category: about
 ---
 
   I'm a bioengineering undergraduate at the <a href="https://en.wikipedia.org/wiki/University_of_California,_Berkeley"> University of California, Berkeley</a> with a strong interest in the intersection of <b>mixed signal circuit design</b>, <b>sound</b>, and the <b>human body</b> and <b>brain</b>.<br><br>
