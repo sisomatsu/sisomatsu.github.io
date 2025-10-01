@@ -1,10 +1,23 @@
 - name: About
-  link: /about/
+  url: https://sisomatsu.github.io/about-me.html
 - name: Research
-  link: /research/
+  url: https://sisomatsu.github.io/research.html
 - name: Projects
-  link: /projects/
+  url: https://sisomatsu.github.io/projects.html
 - name: Blog
-  link: /blog/
+  url: https://sisomatsu.github.io/seanblog.html
 - name: CV
-  link: /CV/
+  link: /cv/
+
+
+#entries:
+#  - title: Featured Posts
+#    entries:
+#      - title: About Me
+#        url: https://sisomatsu.github.io/about-me.html
+#      - title: Research
+#        url: https://sisomatsu.github.io/research.html
+#      - title: Projects
+#        url: https://sisomatsu.github.io/projects.html
+#      - title: seanblog
+#        url: https://substack.com/@seanblog
