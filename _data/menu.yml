@@ -1,17 +1,17 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-entries:
-  - title: Featured Posts
-    entries:
-      - title: About Me
-        url: https://sisomatsu.github.io/about-me.html
-      - title: Research
-        url: https://sisomatsu.github.io/research.html
-      - title: Projects
-        url: https://sisomatsu.github.io/projects.html
-      - title: seanblog
-        url: https://substack.com/@seanblog
+#entries:
+#  - title: Featured Posts
+#    entries:
+#      - title: About Me
+#        url: https://sisomatsu.github.io/about-me.html
+#      - title: Research
+#        url: https://sisomatsu.github.io/research.html
+#      - title: Projects
+#        url: https://sisomatsu.github.io/projects.html
+#      - title: seanblog
+#        url: https://substack.com/@seanblog
 
   - title: Recent News
     post_list:
