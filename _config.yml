@@ -4,7 +4,7 @@ email: sean.isomatsu@berkeley.edu # email of site's author
 url: https://sisomatsu.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: | # description of the site (multiple lines allowed)
-  Neurotech and Hardware enthusiast. 
+  Neurotech and Hardware enthusiast.</br> 
   I am an undergraduate student at UC Berkeley. Currently @ Muller Lab and Lin Lab.
 #  <br> <br>| 
 #  <a href="https://sisomatsu.github.io/more-about-me"> more about me</a> |
