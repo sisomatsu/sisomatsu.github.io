@@ -5,9 +5,9 @@
 - name: Projects
   link: https://sisomatsu.github.io/projects.html
 - name: Blog
-  url: https://sisomatsu.github.io/seanblog.html
-- link: CV
-  link: /cv/
+  link: https://sisomatsu.github.io/seanblog.html
+- name: CV
+  link: https://sisomatsu.github.io/cv.html
 
 
 #entries:
