@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jektex
+  - jekyll-last-modified-at
 
 jektex:
   cache_dir: ".jektex-cache"
