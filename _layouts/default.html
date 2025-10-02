@@ -5,13 +5,29 @@
     <header class="site-header">
       <div class="w">
         <nav class="site-nav">
-          {% for item in site.data.navigation %}
-            <a href="{{ item.link | relative_url }}"
-               {% if page.url == item.link %}aria-current="page"{% endif %}>
-               {{ item.name }}
+          <!-- Home on the left -->
+          {% assign home = site.data.navigation | where: "name", "Home" | first %}
+          {% if home %}
+            <a class="nav-left"
+               href="{{ home.link | relative_url }}"
+               {% if page.url == home.link %}aria-current="page"{% endif %}>
+               {{ home.name }}
             </a>
-          {% endfor %}
+          {% endif %}
+
+          <!-- Others centered as a group -->
+          <div class="nav-center">
+            {% for item in site.data.navigation %}
+              {% unless item.name == "Home" %}
+                <a href="{{ item.link | relative_url }}"
+                   {% if page.url == item.link %}aria-current="page"{% endif %}>
+                   {{ item.name }}
+                </a>
+              {% endunless %}
+            {% endfor %}
+          </div>
         </nav>
+
       </div>
     </header>
 
