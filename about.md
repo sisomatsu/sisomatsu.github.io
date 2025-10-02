@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: archive
 category: example2
 ---
 
