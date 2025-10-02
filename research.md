@@ -13,7 +13,6 @@ My research interests lie at the intersection between neurotechnology, mixed-sig
 - [TFUS via PMUTs](#TFUS-via-PMUTs)
 - [Bone Age Sensing via PMUTs](#Bone-Age-Sensing-via-PMUTs)
 - [Mycoremediation using Oyster Mushrooms](#Mycoremediation-using-Oyster-Mushrooms)
-
 <br>
 <p id="last-modified"></p>
 
