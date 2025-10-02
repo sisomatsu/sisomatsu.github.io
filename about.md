@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
 category: example2
 ---
+
 
   I'm a bioengineering undergraduate at the <a href="https://en.wikipedia.org/wiki/University_of_California,_Berkeley"> University of California, Berkeley</a> with a strong interest in the intersection of <b>mixed signal circuit design</b>, <b>sound</b>, and the <b>human body</b> and <b>brain</b>.<br><br>
   As part of <a href="https://linlab.me.berkeley.edu/">Liwei Lin Lab</a> and with the support from the <a href="https://research.berkeley.edu/hsp-scholars/sean-isomatsu/">Haas Scholars Program</a> I was an integral part of the validation of a novel, high pressure, micromachined ultrasound array for stimulation of the brain. Previously, I worked on 3D-printed bone phantoms as well, co-authoring a <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KZ48Jh8AAAAJ&citation_for_view=KZ48Jh8AAAAJ:u5HHmVD_uO8C">conference paper</a> on bone-age detection using a micromachined ultrasound array.<br><br>
