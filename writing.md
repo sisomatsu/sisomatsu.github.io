@@ -4,7 +4,6 @@ title: Writing
 ---
 
 Here is a link to my <a href="https://substack.com/@seanblog" target="_blank">substack</a>.
-<br>
 <p id="last-modified"></p>
 
 <script>
