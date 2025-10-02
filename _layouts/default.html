@@ -5,7 +5,7 @@
     <header class="site-header">
       <div class="w">
         <nav class="site-nav">
-          <!-- Home on the left -->
+          <!-- Home link -->
           {% assign home = site.data.navigation | where: "name", "Home" | first %}
           {% if home %}
             <a class="nav-left"
@@ -14,9 +14,9 @@
                {{ home.name }}
             </a>
           {% endif %}
-
-          <!-- Others centered as a group -->
-          <div class="nav-center">
+        
+          <!-- Other links -->
+          <div class="nav-right">
             {% for item in site.data.navigation %}
               {% unless item.name == "Home" %}
                 <a href="{{ item.link | relative_url }}"
@@ -27,6 +27,7 @@
             {% endfor %}
           </div>
         </nav>
+
 
       </div>
     </header>
