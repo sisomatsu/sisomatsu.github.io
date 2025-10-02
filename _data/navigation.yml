@@ -1,13 +1,13 @@
 - name: About
   link: https://sisomatsu.github.io/about
 - name: Research
-  link: https://sisomatsu.github.io/research.html
+  link: https://sisomatsu.github.io/research
 - name: Projects
-  link: https://sisomatsu.github.io/projects.html
+  link: https://sisomatsu.github.io/projects
 - name: Writing
-  link: https://sisomatsu.github.io/writing.html
+  link: https://sisomatsu.github.io/writing
 - name: CV
-  link: https://sisomatsu.github.io/cv.html
+  link: https://sisomatsu.github.io/cv
 
 
 #entries:
