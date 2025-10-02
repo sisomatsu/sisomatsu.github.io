@@ -1,6 +1,6 @@
 ---
 layout: archive
-category: example2
+title: About Me
 ---
 
 
