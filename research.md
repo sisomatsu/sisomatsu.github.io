@@ -21,3 +21,11 @@ My research interests lie at the intersection between neurotechnology, mixed-sig
     "Last updated: " + modified.toLocaleDateString();
 </script>
 
+<style>
+  #last-modified {
+    font-size: 0.9em;    /* optional: make it slightly smaller */
+    color: #555;         /* optional: softer color */
+    margin-top: 20px;    /* optional: spacing */
+  }
+</style>
+
