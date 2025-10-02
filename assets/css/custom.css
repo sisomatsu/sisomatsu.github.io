@@ -51,19 +51,5 @@
   }
 }
 
-.site-nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.nav-left {
-  margin-right: auto;
-}
-
-.nav-right {
-  display: flex;
-  gap: 1.5rem;
-}
 
 
