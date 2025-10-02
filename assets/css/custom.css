@@ -24,11 +24,30 @@
   align-items: center;        /* vertically center within header */
 }
 
+<!--
 /* Lay out the menu horizontally with spacing between items */
 .site-nav {
   display: flex;
   gap: 1.25rem;               /* space between menu items (use margin if older browsers) */
 }
+-->
+.site-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.site-nav .nav-left {
+  margin-right: auto; /* pushes "Home" left */
+  text-decoration: none;
+}
+
+.site-nav .nav-center {
+  display: flex;
+  gap: 1rem;
+}
+
 
 /* Nice defaults for links */
 .site-nav a {
