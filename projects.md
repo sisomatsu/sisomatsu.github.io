@@ -4,7 +4,7 @@ title: Projects
 ---
 These are the projects that I have worked on.
 
-<br><br>
+<br>
 <p id="last-modified"></p>
 
 <script>
