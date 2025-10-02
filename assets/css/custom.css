@@ -48,6 +48,21 @@
   gap: 1rem;
 }
 
+.site-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* spreads left + right groups */
+}
+
+.nav-left {
+  margin-right: auto; /* keeps Home pinned left */
+}
+
+.nav-right {
+  display: flex;
+  gap: 1.5rem; /* spacing between the other links */
+}
+
 
 /* Nice defaults for links */
 .site-nav a {
