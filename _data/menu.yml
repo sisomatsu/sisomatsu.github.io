@@ -42,3 +42,19 @@ entries:
           <a href="https://www.linkedin.com/in/seanisomatsu" target="_blank">Linkedin</a>,
           <a href="mailto:sean.isomatsu@berkeley.edu" class="email-btn">Contact</a>,
           sean.isomatsu@berkeley.edu
+<br>
+<p id="last-modified"></p>
+
+<script>
+  const modified = new Date(document.lastModified);
+  document.getElementById("last-modified").textContent =
+    "Last updated: " + modified.toLocaleDateString();
+</script>
+
+<style>
+  #last-modified {
+    font-size: 0.9em;    /* optional: make it slightly smaller */
+    color: #555;         /* optional: softer color */
+    margin-top: 20px;    /* optional: spacing */
+  }
+</style>
