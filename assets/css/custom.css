@@ -24,7 +24,7 @@
   align-items: center;        /* vertically center within header */
 }
 
-
+<!--
 /* Lay out the menu horizontally with spacing between items */
 .site-nav {
   display: flex;
@@ -47,7 +47,7 @@
   display: flex;
   gap: 1rem;
 }
-
+-->
 .site-nav {
   display: flex;
   align-items: center;
