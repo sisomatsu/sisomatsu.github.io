@@ -16,7 +16,6 @@ title: About Me
 
 <style>
   #last-modified {
-    text-align: right;   /* pushes text to the right */
     font-size: 0.9em;    /* optional: make it slightly smaller */
     color: #555;         /* optional: softer color */
     margin-top: 20px;    /* optional: spacing */
