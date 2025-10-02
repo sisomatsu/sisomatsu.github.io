@@ -14,6 +14,15 @@ title: About Me
     "Last updated: " + modified.toLocaleDateString();
 </script>
 
+<style>
+  #last-modified {
+    text-align: right;   /* pushes text to the right */
+    font-size: 0.9em;    /* optional: make it slightly smaller */
+    color: #555;         /* optional: softer color */
+    margin-top: 20px;    /* optional: spacing */
+  }
+</style>
+
 <!--
   As part of <a href="https://linlab.me.berkeley.edu/">Liwei Lin Lab</a> and with the support from the <a href="https://research.berkeley.edu/hsp-scholars/sean-isomatsu/">Haas Scholars Program</a> I was an integral part of the validation of a novel, high pressure, micromachined ultrasound array for stimulation of the brain. Previously, I worked on 3D-printed bone phantoms as well, co-authoring an <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KZ48Jh8AAAAJ&citation_for_view=KZ48Jh8AAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener noreferrer>IEEE MEMS conference paper</a> on bone-age detection using a micromachined ultrasound array.<br><br>
   I recently joined <a href="https://www.rikkymuller.com/">Rikky Muller Lab</a> where I will be working on developing new algorithms for ultrasound phase abberation corrections of the skull, and confirmation of ultrasound focal point inside the brain without the use of CT or MRI scans. <br><br>
