@@ -14,4 +14,9 @@ My research interests lie at the intersection between neurotechnology, mixed-sig
 - [Bone Age Sensing via PMUTs](#Bone-Age-Sensing-via-PMUTs)
 - [Mycoremediation using Oyster Mushrooms](#Mycoremediation-using-Oyster-Mushrooms)
 
+<script>
+  const modified = new Date(document.lastModified);
+  document.getElementById("last-modified").textContent =
+    "Last updated: " + modified.toLocaleDateString();
+</script>
 
