@@ -5,6 +5,8 @@ title: Projects
 These are the projects that I have worked on.
 
 <br><br>
+<p id="last-modified"></p>
+
 <script>
   const modified = new Date(document.lastModified);
   document.getElementById("last-modified").textContent =
