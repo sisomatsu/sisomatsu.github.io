@@ -4,6 +4,7 @@
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
     <header class="site-header">
       <div class="w">
+<!--
         <nav class="site-nav">
           {% for item in site.data.navigation %}
             <a href="{{ item.link | relative_url }}"
@@ -12,6 +13,28 @@
             </a>
           {% endfor %}
         </nav>
+-->
+        <nav class="site-nav">
+          <!-- Home link -->
+          {% for item in site.data.home %}
+            <a class="nav-left"
+               href="{{ item.link | relative_url }}"
+               {% if page.url == item.link %}aria-current="page"{% endif %}>
+               {{ item.name }}
+            </a>
+          {% endfor %}
+        
+          <!-- Other links -->
+          <div class="nav-right">
+            {% for item in site.data.navigation %}
+              <a href="{{ item.link | relative_url }}"
+                 {% if page.url == item.link %}aria-current="page"{% endif %}>
+                 {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        </nav>
+
       </div>
     </header>
 
