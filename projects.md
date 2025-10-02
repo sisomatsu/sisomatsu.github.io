@@ -12,3 +12,11 @@ These are the projects that I have worked on.
   document.getElementById("last-modified").textContent =
     "Last updated: " + modified.toLocaleDateString();
 </script>
+
+<style>
+  #last-modified {
+    font-size: 0.9em;    /* optional: make it slightly smaller */
+    color: #555;         /* optional: softer color */
+    margin-top: 20px;    /* optional: spacing */
+  }
+</style>
