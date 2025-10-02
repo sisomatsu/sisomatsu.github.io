@@ -15,6 +15,8 @@ My research interests lie at the intersection between neurotechnology, mixed-sig
 - [Mycoremediation using Oyster Mushrooms](#Mycoremediation-using-Oyster-Mushrooms)
 
 <br><br>
+<p id="last-modified"></p>
+
 <script>
   const modified = new Date(document.lastModified);
   document.getElementById("last-modified").textContent =
