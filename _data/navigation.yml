@@ -1,3 +1,5 @@
+- name: Home
+  link: https://sisomatsu.github.io
 - name: About
   link: https://sisomatsu.github.io/about
 - name: Research
