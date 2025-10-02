@@ -5,7 +5,7 @@ title: About Me
   I'm an undergrad studying Bioengineering @ <a href="https://www.berkeley.edu/" target="_blank" rel="noopener noreferrer">UC Berkeley</a> with a focus in <b>mixed signal circuit design</b>, <b>acoustics</b>, and in general, <b>technology interfacing the human body and brain.</b><br><br>
   On campus, you can either find me doing research @ <a href="https://linlab.me.berkeley.edu/" target="_blank">Lin Lab</a> or @ <a href="https://www.rikkymuller.com/" target="_blank">Muller Lab</a>, running around making devices for <a href="https://neurotech.studentorg.berkeley.edu/" target="_blank">Neurotech@Berkeley</a> or at one of the 20 libraries at Berkeley studying it up :D.
 
-
+<br><br>
 <p id="last-modified"></p>
 
 <script>
